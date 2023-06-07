@@ -1,6 +1,6 @@
 # Magpie-2
 
-
+![plot](./images/hand.png)
 ## Amazon Purchases
 ### Hardware
 2 AX-12A Motors
