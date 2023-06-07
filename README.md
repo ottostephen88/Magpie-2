@@ -28,3 +28,8 @@ https://www.amazon.com/HVAZI-Phillips-Stainless-Machine-Assortment/dp/B0BJVN748D
 <br/><br/>
 M2.5 Standoffs(10mm)
 https://www.amazon.com/HELIFOUNER-Standoffs-Assortment-Threaded-Motherboard/dp/B0B7SNCFF1/ref=sr_1_1_sspa?crid=3SSYPIIDKKRF&keywords=2.5+standoffs&qid=1686158654&s=industrial&sprefix=2.5+standoffs%2Cindustrial%2C111&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+## Software
+### Dynamixel 2.0
+https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_wizard2/
+### Python
+https://www.python.org/downloads/
