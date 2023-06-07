@@ -35,3 +35,5 @@ https://www.amazon.com/HELIFOUNER-Standoffs-Assortment-Threaded-Motherboard/dp/B
 https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_wizard2/
 ### Python
 https://www.python.org/downloads/
+### Open3D
+http://www.open3d.org/
