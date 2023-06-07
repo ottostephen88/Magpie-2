@@ -3,6 +3,7 @@
 ### Hardware
 2 AX-12A Motors
 https://www.robotis.us/dynamixel-ax-12a/
+<br/><br/>
 OpenRB-150 Board
 https://www.robotis.us/openrb-150/
 Intel-D405 Camera
